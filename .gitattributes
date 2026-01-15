@@ -1,2 +1,3 @@
 *.html linguist-language=Text
 *.tex linguist-language=Text
+*.toc linguist-language=Text
